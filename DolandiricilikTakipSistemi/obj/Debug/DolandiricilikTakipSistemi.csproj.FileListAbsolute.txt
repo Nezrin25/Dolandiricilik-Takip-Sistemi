@@ -1,0 +1,10 @@
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\bin\Debug\DolandiricilikTakipSistemi.exe.config
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\bin\Debug\DolandiricilikTakipSistemi.exe
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\bin\Debug\DolandiricilikTakipSistemi.pdb
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\obj\Debug\DolandiricilikTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\obj\Debug\DolandiricilikTakipSistemi.Form1.resources
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\obj\Debug\DolandiricilikTakipSistemi.Properties.Resources.resources
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\obj\Debug\DolandiricilikTakipSistemi.csproj.GenerateResource.cache
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\obj\Debug\DolandiricilikTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\obj\Debug\DolandiricilikTakipSistemi.exe
+C:\Users\FA506IHRB\OneDrive\Desktop\C#\DolandiricilikTakipSistemi\DolandiricilikTakipSistemi\obj\Debug\DolandiricilikTakipSistemi.pdb
